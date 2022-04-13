@@ -1,3 +1,4 @@
 git add .//把本地所有修改提交到暂存区
 git commit -m '修改的信息'//传本地仓库
 git push origin master//推送到主分支
+脚本提交
